@@ -3,8 +3,8 @@ A Fantastic Experience Today, we learned about PARALLAX WEBSITE, which was very 
 
 So let's talk about what a Parallax Website is ,Parallax scrolling is a web design technique in which the background of a website moves slower than the foreground. As visitors scroll down the site, this creates a 3D effect, adding depth and creating a more immersive browsing experience. The concept of parallax is based on optical illusion.
 
-here is the video of the project
-https://github.com/user-attachments/assets/38147cb0-3cd2-4304-a010-2ee5ae06e85d
-
-
 #mernstackdeveloper #html #css #reactjs #nodejs #javascriptdeveloper #codehelp #lovebabbar
+
+
+https://github.com/user-attachments/assets/273a729f-61d7-4e19-8adb-ae90acebad14
+
